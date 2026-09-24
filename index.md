@@ -1,13 +1,13 @@
 # Factorift 第三者素材ライセンス / Third-Party Licenses
 
-ゲーム「Factorift」で使用している第三者の素材（フォント・効果音・BGM・画像）とライブラリの著作権表示、ライセンス、出典の一覧です。
+ゲーム「Factorift」で使用している第三者の素材（フォント・効果音・BGM・画像）とライブラリの著作権表示、ライセンス、出典の一覧です。<br>
 This page lists the copyright notices, licenses, and sources of the third-party assets and libraries used in the game "Factorift".
 
-- ライセンスの本文は、各素材に同梱されていた原本（または、ライセンスの発行元が公開している原文）をそのまま掲載しています。要約・改変はしていません。
+- ライセンスの本文は、各素材に同梱されていた原本（または、ライセンスの発行元が公開している原文）をそのまま掲載しています。要約・改変はしていません。<br>
   License texts are reproduced verbatim from the files distributed with each asset (or from the license publisher). They have not been summarized or modified.
-- 原本ファイルは `licenses` フォルダにも元のまま置いており、各ライセンス文の下にリンクがあります。
+- 原本ファイルは `licenses` フォルダにも元のまま置いており、各ライセンス文の下にリンクがあります。<br>
   The original files are also kept unchanged in the `licenses` folder; each license text below links to its file.
-- ゲーム内のポーズ画面にある「CREDITS」でも、名称とライセンスの種類を表示しています。
+- ゲーム内のポーズ画面にある「CREDITS」でも、名称とライセンスの種類を表示しています。<br>
   The in-game CREDITS screen (in the pause menu) also lists these assets.
 
 ## 一覧 / Summary
@@ -700,8 +700,8 @@ SOFTWARE.
 
 ## CC0 1.0 Universal (Legal Code)
 
-Kenney・Empacotatron・Pixel Art Drone・Factory Tileset に適用される CC0 1.0 Universal の条文です。
-The CC0 1.0 Universal legal code, which applies to Kenney, Empacotatron, Pixel Art Drone and Factory Tileset.
+Kenney・Empacotatron・Pixel Art Drone・Factory Tileset に適用される CC0 1.0 Universal の条文です。<br>
+The CC0 1.0 Universal legal code, which applies to Kenney, Empacotatron, Pixel Art Drone and Factory Tileset.<br>
 出典 / Source: https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt
 
 ```text
